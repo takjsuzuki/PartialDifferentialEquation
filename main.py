@@ -4,7 +4,6 @@ import ReactionDiffusion
     
 if __name__ == "__main__":
 
-
     Model = HeatDiffusion.HeatDiffusion()
     #Model = WaveEquation.WaveEquation()
     #Model = ReactionDiffusion.ReactionDiffusion()
